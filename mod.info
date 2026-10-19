@@ -1,0 +1,7 @@
+{mod
+	{name "Goh.0"}
+	{tags "0"}
+	{desc "test"}
+	{minGameVersion "any"}
+	{maxGameVersion "any"}	
+}
